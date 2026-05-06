@@ -5,7 +5,7 @@
  * Version: 1.0.5
  * Author: Matthew Vernhout / BIMI Group
  * Author URI: https://github.com/EmailKarma
- * Plugin URI: https://github.com/EmailKarma/BIMI-official
+ * Plugin URI: https://github.com/authindicators/bimi-svg-validator
  * License: GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: bimi-svg-validator
